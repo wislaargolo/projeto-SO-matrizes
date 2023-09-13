@@ -12,3 +12,9 @@ Neste projeto, implementamos a multiplicação de matrizes usando várias aborda
 3. **Paralelo - Threads**: Programa faz a multiplicação de matrizes usando threads. Além dos arquivos de entrada, ele também recebe um número inteiro P, que indica a quantidade de elementos a serem processados por cada thread.
 
 4. **Paralelo - Processos**: Similar ao programa de threads, mas usando processos em vez de threads para a multiplicação de matrizes.
+
+5. ## Discente
+* Nome: Wisla Argolo
+* E-mail: wislaargolo1@gmail.com
+* Nome: Gabriel Ribeiro
+* E-mail: ...
