@@ -13,7 +13,7 @@ Neste projeto, implementamos a multiplicação de matrizes usando várias aborda
 
 4. **Paralelo - Processos**: Similar ao programa de threads, mas usando processos em vez de threads para a multiplicação de matrizes.
 
-5. ## Discente
+5. ## Discentes
 * Nome: Wisla Argolo
 * E-mail: wislaargolo1@gmail.com
 * Nome: Gabriel Ribeiro
