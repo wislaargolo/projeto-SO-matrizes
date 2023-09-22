@@ -35,7 +35,7 @@ int main(int argc, char *argv[]) {
     random_matrix(n1, m1, file1);
     file1.close();
 
-    std::ofstream file2("m2" + std::to_string(n1) + "x" + std::to_string(m1) + ".txt");
+    std::ofstream file2("m2_" + std::to_string(n1) + "x" + std::to_string(m1) + ".txt");
     random_matrix(n2, m2, file2);
     file2.close();
 
